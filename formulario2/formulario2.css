@@ -1,0 +1,16 @@
+body{
+    background-color: salmon;
+}
+form{
+    display: flex; 
+    flex-wrap:wrap;
+    flex-direction: row;
+}
+p{flex-flow: column;
+    width: 50%;
+    
+}
+label{
+    font-style: italic;
+    font-size: large;
+}
